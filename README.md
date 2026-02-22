@@ -2,7 +2,7 @@
 
 Analysis of a room’s thermal performance and improvement suggestions.
 
-## Features:
+## Features
 - Real hear transfer calculations (U-values)
 - Breakdown by surface (walls, windows, roof, floor)
 - Optimisation suggests required insulation
